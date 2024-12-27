@@ -1,6 +1,6 @@
 // src/app/page.tsx
 
-import APITester from '@/components/APITester';
+import {APITester} from '@/components/api-tester/index';
 
 export default function Home() {
   return (
